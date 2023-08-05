@@ -1,14 +1,14 @@
 {
   "name": "root",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.1.4"
   },
   "scripts": {
     "dev": "lerna version --no-private"
-  }
+  },
+  "packages": [
+    "packages/*"
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "name": "jojotao-package1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "suntaobj01 <suntaobj01@yuanfudao.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/jojotao-package1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.zhenguanyu.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/jojotao-package1.test.js"
+  }
+}

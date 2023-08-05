@@ -1,0 +1,14 @@
+0 silly argv { _: [ 'create' ], lernaVersion: '7.1.4', '$0': 'lerna', name: 'abc' }
+1 notice cli v7.1.4
+2 verbose packageConfigs Explicit "packages" configuration found in lerna.json. Resolving packages using the configured glob(s): ["packages/*"]
+3 verbose rootPath /Users/jojotaoo/Desktop/study/lernaStudy/lerna-gp
+4 error Error: canceled
+4 error     at Interface.<anonymous> (/Users/jojotaoo/Desktop/study/lernaStudy/lerna-gp/node_modules/read/lib/read.js:79:15)
+4 error     at Interface.emit (events.js:400:28)
+4 error     at Interface._ttyWrite (readline.js:1001:16)
+4 error     at ReadStream.onkeypress (readline.js:265:10)
+4 error     at ReadStream.emit (events.js:400:28)
+4 error     at emitKeys (internal/readline/utils.js:358:14)
+4 error     at emitKeys.next (<anonymous>)
+4 error     at ReadStream.onData (readline.js:1270:36)
+4 error     at ReadStream.emit (events.js:400:28)

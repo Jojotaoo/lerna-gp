@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "lerna": "^7.0.0"
+    "lerna": "^6.0.0"
   },
   "scripts": {
     "dev": "lerna version --no-private",

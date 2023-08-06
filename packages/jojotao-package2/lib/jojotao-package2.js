@@ -3,6 +3,6 @@
 module.exports = jojotaoPackage2;
 
 function jojotaoPackage2() {
-  console.log(2)
+  console.log(2123123)
   return 'Hello from jojotaoPackage2';
 }

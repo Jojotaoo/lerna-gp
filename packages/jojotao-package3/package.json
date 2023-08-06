@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/jojotao-package3.test.js"
-  }
+  },
+  "gitHead": "c5466290ea21fe2d08d6327365fae8b5c1c0e4c9"
 }

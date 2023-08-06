@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.zhenguanyu.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "node ./__tests__/jojotao-package2.test.js"

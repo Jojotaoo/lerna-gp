@@ -3,14 +3,14 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "lerna": "^6.1.4"
+    "lerna": "^7.0.0"
   },
   "scripts": {
     "dev": "lerna version --no-private",
     "ls": "lerna ls"
   },
   "workspaces": [
-    "packages/*"
+    "packages/**"
   ],
   "version": "111.11.11"
 }
